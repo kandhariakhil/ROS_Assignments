@@ -1,0 +1,5 @@
+<launch>
+<node name="Controller" pkg="my_minimal_nodes" type="my_minimal_controller"/>
+<node name="Simulator" pkg="my_minimal_nodes" type="my_minimal_simulator"/>
+<node name="Commander" pkg="my_minimal_nodes" type="my_sin_commander" output="screen"/>
+</launch>

@@ -1,0 +1,10 @@
+#goal definition
+float64 frequency
+float64 amplitude
+float64 cycles
+---
+#result definition
+string result
+---
+#feedback
+float64 percentage

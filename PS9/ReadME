@@ -1,0 +1,7 @@
+To run please copy Complete_run_ARIAC.cpp into shipment_filler and addthe node to cmakelist.
+
+Add box_inspector2 to folder box_inspector (replace).
+
+With 4 different terminals start the nodes as required (including the complete_run_ARIAC node)
+
+
